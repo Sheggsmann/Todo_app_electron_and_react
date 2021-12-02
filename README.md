@@ -7,8 +7,8 @@ Database was handled using Sequelize ORM and Sqlite db
 ## Setup
 
 1. Clone the Github repository
-2. run (npm install) to install the neccessary dependencies
-3. lanuch the project by running : npm run dev
+2. run `npm install` to install the neccessary dependencies
+3. lanuch the project by running : `npm run dev`
 
 ## Available Scripts
 
