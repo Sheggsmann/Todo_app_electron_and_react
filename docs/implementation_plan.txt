@@ -1,0 +1,22 @@
+* TODO LIST APP
+
+======================
+FEATURES
+======================
+1. Add Todo Item
+2. Delete Todo Item
+3. Delete Completed Todo Items
+4. Set Status for Todo Item
+5. Persist Todo Items to a Database
+
+====================
+SHORTCUT KEYS
+====================
+1. Hit the key (a) to toggle between completed and not completed todo items
+2. Hit the key (c) to clear all completed items
+3. Hit Ctrl + Q or Command + Q to close the app
+
+===================
+DESIGN FILES
+===================
+Design taken from (frontend-mentor todo app design file)
