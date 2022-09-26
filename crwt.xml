@@ -41,7 +41,6 @@
 					<Int name="" value="3031" />
 					<Int name="" value="3032" />
 					<Int name="" value="3033" />
-					<Int name="" value="3034" />
                 </List>
                 <Float name="passingScore" value=".8"/>
                 <String name="trainingVideoName" value=""/>
@@ -283,15 +282,19 @@
         <Dict name="userGroups">
             <Dict name="groupA">
                 <String name="userGroupName" value="Karmanos Cancer Institute"/>
+                <String name="userGroupId" value="04e2518a-9372-404e-9449-9e042d32e055"/>
             </Dict>  
             <Dict name="groupB">
                 <String name="userGroupName" value="East Alabama Medical Center"/>
+                <String name="userGroupId" value="ffb79838-634d-47d5-978a-e21c6a217b61"/>
             </Dict>  
             <Dict name="groupC">
                 <String name="userGroupName" value="University of Rochester"/>
+                <String name="userGroupId" value="29b7485d-87f6-446d-a63c-72b2b271d8e9"/>
             </Dict>            
 			<Dict name="groupD">
                 <String name="userGroupName" value="University of Connecticut"/>
+                <String name="userGroupId" value="976b2057-8620-41e1-b9a9-172faf35c647"/>
             </Dict>            
         </Dict>
         
